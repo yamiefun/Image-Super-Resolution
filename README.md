@@ -17,7 +17,7 @@ The purpose of this project is to train a model to reconstruct a high-resolution
 
 3. Run `bash demo.sh` in `EDSR-PyTorch/src/`. You can select the script in `demo.sh` to train or to test the model. Make sure the GPU settings in the scripts are suitable for your machine.
 Example image of training:
-![](https://i.imgur.com/7n6xWkv.png =300x)
+![](https://i.imgur.com/7n6xWkv.png)
 
 ## Result
 
